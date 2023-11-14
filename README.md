@@ -40,7 +40,7 @@ Note: Keeping these dependencies updated is important for the compatibility and 
 The following animation illustrates the motion of space objects relative to the star background, providing a clear visual understanding of their trajectories:
 
 <p align="middle">
-  <img src="obs/obs_tle_20220524/gif/T1616_S1_1_C6_1.gif" width="500" />
+  <img src="obs/obs_tle_20220524/gif/T1616_S1_1_C6_1.gif" width="400" />
 </p>
 
 To load multiple frames of images and find the trajectories of moving objects:
@@ -83,7 +83,7 @@ The output dataframe contains key information about affine transformations, moti
 ```
 
 <p align="middle">
-  <img src="readme_figs/df.png" width="700" />
+  <img src="readme_figs/df.png" width="800" />
 </p>
 
 Visualizing the trajectories of moving objects:
