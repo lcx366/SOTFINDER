@@ -26,6 +26,7 @@ setup(
     install_requires=[
         'scipy',
         'matplotlib',
+        'h5py',
         'starextractor',
         'scikit-learn',
         'photutils',
